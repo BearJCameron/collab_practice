@@ -1,0 +1,21 @@
+body {
+    background-color: lawngreen;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    background-color: lightblue;
+  }
+}
+@media (min-width: 1200px) {
+  body {
+    background-color: #FFFFFF;
+  }
+}
+.nav <stop id”x” style=“stop-opacity:1;” />
+
+@media (min-width: 480px) {
+    body {
+      background-color: green;
+  }
+#x{stop-color: rgba(0,29,36,1);}
